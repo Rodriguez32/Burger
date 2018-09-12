@@ -6,14 +6,14 @@ body {
 
 h1 {
     margin: auto 0;
-    margin-left: 20%;
+    margin-left: 35%;
     margin-bottom: 3%;
     margin-top: 2%;
 }
 
 #avail {
     float: left;
-    margin-right: 6%;
+    margin-right: 20%;
     margin-left: 10%;
 
 
@@ -32,5 +32,5 @@ li {
 
 #add {
     clear: both;
-    margin-left: 25%;
+    margin-left: 35%;
 }
