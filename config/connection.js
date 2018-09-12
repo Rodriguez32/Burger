@@ -20,7 +20,7 @@ connection = mysql.createConnection({
 });
 };
 
-
+// IF I PUT IT THIS WAY IT BREAKS ALL MY CONNECTIONS. ONLY IF I DO IT AS ABOVE THEN I HAVE CONNECTIONS//
 // var connection = mysql.createConnection({
 //   host: "localhost",
 //   port: 3306,
